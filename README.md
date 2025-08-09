@@ -1,62 +1,75 @@
 # Ali Alijani – Embedded Systems & Hardware Developer
+📍 Iran · Open to Relocation (Germany/EU) · 🇬🇧 English C1 · 🇩🇪 German B2
 
-**📍 Currently in Iran | Open to Relocation to Germany & EU**
-
----
-
-## 👋 About Me  
-I am an **Embedded Systems & Hardware Developer** with over **6 years of professional experience** in designing and developing electronic circuits, programming microcontrollers, and implementing embedded systems solutions.  
-Specialized in **ARM, AVR, ESP32**, and experienced with **FPGA development**, **RTOS**, and **EMC/EMV standards**.
-
-My work ranges from **PCB design in Altium Designer** to **low-level Embedded C programming**, covering communication protocols like **CAN, SPI, I2C, UART, Ethernet**.
+[LinkedIn](https://www.linkedin.com/in/ali-alijani-857b251b1) · Email: Ali.alijani198989@gmail.com · Phone: +98 939 737 1724
 
 ---
 
-## 💼 Professional Experience
+<details open>
+  <summary><b>English Profile</b></summary>
 
-### Software & Hardware Developer – Guilan Star Papier (2018 – Present)  
-- Developed embedded software solutions in **Embedded C** for various industrial applications.  
-- Integrated communication protocols (CAN, SPI, I2C) into electronic circuits.  
-- Designed PCBs using **Altium Designer** and adapted circuits for factory requirements.  
-- Created wireless control systems for home appliances using **Bluetooth (HC-05)** and **ESP8266**.  
-- Applied **EMC/EMV standards** in hardware development.  
+## About Me
+Embedded Systems & Hardware Developer with 6+ years of experience in low-level firmware (Embedded C), microcontrollers (ARM/STM32, AVR, ESP32), and PCB design (Altium). Familiar with RTOS and EMC/EMV practices; hands-on with CAN, SPI, I2C, UART, Ethernet.
 
-### Lecturer – Mofteh Center (2013 – 2016)  
-- Taught courses in Electronics, Robotics, AVR, ARM, Altium Designer, and Proteus.  
-- Prepared students for industrial work environments with practical training.
+## Experience
+**Software & Hardware Developer — Guilan Star Paper (2018–Present)**
+- Developed embedded software in C; integrated CAN/SPI/I2C into industrial circuits.
+- Designed PCBs in Altium; adapted circuits to factory requirements (STM32/AVR/ESP32).
+- Built wireless control for home appliances (HC-05 Bluetooth, ESP8266); command via UART.
+- Applied EMC/EMV standards; consulted on needs analysis & circuit optimization.
 
----
+**Lecturer — Mofteh Center (2013–2016)**
+- Taught Electronics, Robotics, AVR, ARM, Altium, Proteus; ran hands-on labs for industry readiness.
 
-## 🛠 Skills
+## Skills
+- Programming: Embedded C, MISRA C  
+- MCUs: ARM (STM32), AVR, ESP32  
+- Tools: Keil, STM32CubeIDE, IAR, Atmel Studio, Arduino IDE, Altium, Proteus, ISE  
+- Protocols: CAN, SPI, I2C, UART, Ethernet  
+- Standards: IPC-610, EMC/EMV · Plus: FPGA (VHDL), RTOS
 
-- **Programming Languages:** Embedded C, MISRA C  
-- **Microcontrollers:** ARM (STM32), AVR, ESP32  
-- **Tools & IDEs:** Keil, STM32CubeIDE, IAR, Atmel Studio, Arduino IDE, Altium Designer, Proteus  
-- **Standards:** IPC-610, EMC/EMV compliance  
-- **Protocols:** SPI, I2C, UART, CAN, Ethernet  
-- **Other:** FPGA development, RTOS
-
----
-
-## 📜 Certifications
-
-- PCB Layout Design with **Altium Designer**  
-- ARM Microcontroller Circuit Design & Analysis  
+## Certifications
+- PCB Layout with Altium Designer
+- ARM Microcontroller Circuit Design & Analysis
 - Embedded C Programming
 
----
-
-## 🌍 Languages
-- English – **C1** (Fluent)  
-- German – **B2** (Upper Intermediate)  
-- Persian – Native
+</details>
 
 ---
 
-## 📬 Contact Me
+<details>
+  <summary><b>Deutsches Profil (DE)</b></summary>
 
-- **Email:** Ali.alijani198989@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ali-alijani-857b251b1](https://www.linkedin.com/in/ali-alijani-857b251b1)  
-- **Phone:** +98 939 737 1724  
+## Über mich
+Ich bin **Hardware- und Embedded-Entwickler** mit über **6 Jahren Berufserfahrung** in Firmware-Entwicklung (Embedded C), Mikrocontrollern (**ARM/STM32, AVR, ESP32**) und **PCB-Design** mit Altium. Vertraut mit **RTOS** sowie **EMV/EMC**-Anforderungen und routiniert mit **CAN, SPI, I²C, UART, Ethernet**.
+
+## Berufserfahrung
+**Software- und Hardware-Entwickler — Guilan Star Paper (2018–heute)**  
+- Entwicklung von Embedded-Software in C; Integration von CAN/SPI/I²C in Industrie-Schaltungen.  
+- PCB-Design mit Altium; Anpassung der Schaltungen an Fabrikanforderungen (STM32/AVR/ESP32).  
+- Drahtlose Steuerung für Haushaltsgeräte (Bluetooth HC-05, ESP8266); Steuerung per UART.  
+- Anwendung von EMV/EMC-Standards; Beratung zur Bedarfsanalyse und Schaltungsoptimierung.
+
+**Dozent — Mofteh Center (2013–2016)**  
+- Kurse in Elektronik, Robotik, AVR, ARM, Altium, Proteus; praxisnahe Übungen für Industrieumgebungen.
+
+## Kenntnisse
+- Programmierung: Embedded C, MISRA C  
+- Mikrocontroller: ARM (STM32), AVR, ESP32  
+- Tools: Keil, STM32CubeIDE, IAR, Atmel Studio, Arduino IDE, Altium, Proteus, ISE  
+- Protokolle: CAN, SPI, I²C, UART, Ethernet  
+- Standards: IPC-610, EMV/EMC · Zusätzlich: FPGA (VHDL), RTOS
+
+## Zertifikate
+- Leiterplattenlayout mit Altium Designer  
+- Entwurf & Analyse von ARM-Mikrocontroller-Schaltungen  
+- Embedded-C-Programmierung
+
+</details>
 
 ---
+
+### Featured Projects (coming soon)
+- IoT Smart Home (ESP32 + MQTT/FreeRTOS)  
+- STM32 Low-Power Data Logger (SD + LoRa)  
+- Bare-Metal Drivers (I²C/SPI/UART) for Cortex-M
